@@ -12,4 +12,6 @@ func main() {
 	fmt.Println("Commit to dev again")
 	// --------------
 	fmt.Println("Add one more line")
+	// --------------
+	fmt.Println("Add 2nd line")
 }
