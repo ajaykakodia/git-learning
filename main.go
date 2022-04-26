@@ -10,4 +10,6 @@ func main() {
 	fmt.Println("commit from main")
 	// --------------
 	fmt.Println("Add 2nd line")
+	// --------------------------------
+	fmt.Println("made changes from dev1 from git editor")
 }
